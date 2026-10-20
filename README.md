@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
