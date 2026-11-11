@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
