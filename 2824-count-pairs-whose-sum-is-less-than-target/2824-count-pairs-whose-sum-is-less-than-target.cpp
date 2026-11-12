@@ -18,3 +18,5 @@ public:
     }
 
 };
+// tc=> o(nlogn)
+// sc=> o(1)
