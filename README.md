@@ -36,6 +36,7 @@
 | [0344-reverse-string](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -43,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
