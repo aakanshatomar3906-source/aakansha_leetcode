@@ -39,3 +39,5 @@ public:
         return water;
     }
 };
+// tc=> o(n)
+// sc=> o(1)
