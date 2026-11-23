@@ -60,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/1929-concatenation-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -90,6 +91,7 @@
 | [0169-majority-element](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0705-design-hashset) |
 ## Quicksort
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0705-design-hashset](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0705-design-hashset) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +129,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
