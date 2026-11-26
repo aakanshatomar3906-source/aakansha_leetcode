@@ -60,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0706-design-hashmap) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakanshatomar3906-source/aakansha_leetcode/tree/master/0977-squares-of-a-sorted-array) |
